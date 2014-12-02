@@ -13,7 +13,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Oswald', sans-serif;
-    font-size: 32px;
+    font-size: 30px;
 }
 
 h1 {
@@ -26,7 +26,8 @@ h1 {
 h2 {
     line-height: 48px;
     color: #F8ECE0;
-    background-color: #494040
+    background-color: #494040;
+
 
 }
 
@@ -56,7 +57,7 @@ nav a {
     border-bottom: 3px solid #ffffff;
     color: #000;
     display: inline-block;
-    font: 20px/24px 'Oswald', sans-serif;
+    font: 25px/24px 'Oswald', sans-serif;
     padding: 10px;
     text-decoration: none;
 }
@@ -114,11 +115,12 @@ figcaption {
 
 
 footer {
-    background-color: #FF8000;
+    background-color: #494040;
     clear: both;
-    color: #0A2A29;
+    color: #F8ECE0;
     flex-basis:
 }
+
 
 footer ul {
     list-style-type: none;
