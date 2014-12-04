@@ -118,7 +118,7 @@ footer {
     background-color: #494040;
     clear: both;
     color: #F8ECE0;
-    flex-basis:
+    text-align: center;
 }
 
 
@@ -127,9 +127,21 @@ footer ul {
 
 }
 
+.logo {
+    float: left
+}
+
+.social {
+    float: right;
+}
+
+img {
+    max-width: 700px;
+}
+
 .wrapper {
     margin: 0 auto;
-    max-width: 600px;
+    max-width: 650px;
 
 }
 
